@@ -1,319 +1,445 @@
+<!-- ========================= HERO SECTION ========================= -->
+
 <div align="center">
 
+# 👋 Hi, I'm Saqib Ali
 
-
-
+### Senior Full-Stack Engineer | Next.js • React • Node.js • TypeScript • Python
 
 <p>
-  <a href="https://saqibalidev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/saqibalidev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:saqibali046@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  Building scalable, secure and production-ready digital products.
 </p>
 
+<p>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Senior+Full-Stack+Engineer;Next.js+%7C+React+%7C+Node.js+%7C+TypeScript;Python+%7C+Flask+%7C+REST+APIs;Docker+%7C+Nginx+%7C+Linux+VPS;Building+Scalable+Digital+Solutions;Exploring+AI+Agents+%7C+RAG+%7C+LLMs"
+    alt="Typing SVG"
+  />
+</p>
 
+<p>
+  <a href="https://saqibalidev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/saqibalidev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:saqibali046@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
+<p>
+  <img src="https://komarev.com/ghpvc/?username=saqib-ali-dev&label=Profile%20Views&color=2563EB&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/saqib-ali-dev?label=Followers&style=for-the-badge&logo=github" />
+</p>
 
 </div>
 
-👨‍💻 About Me
+---
 
-I am Saqib Ali, a results-driven Full-Stack Developer from Faisalabad, Pakistan. I specialize in designing, developing and deploying scalable web applications using modern JavaScript, TypeScript and Python technologies.
+# 👨‍💻 About Me
 
-My experience covers the complete product lifecycle—from translating business requirements into clean user interfaces to building secure APIs, designing databases, containerizing applications and deploying production systems on Linux servers.
+I am **Saqib Ali**, a Full-Stack Engineer from **Faisalabad, Pakistan**, focused on designing, developing and deploying modern, scalable and production-ready web applications.
 
-💼 Full-Stack Developer at Tech9ET
+My experience covers the complete application lifecycle — from converting business requirements into responsive user interfaces to developing backend APIs, designing databases, containerizing applications and managing production deployments.
 
-🧩 Experienced with MERN, Next.js, TypeScript, Python Flask and SQL
+I enjoy solving real-world business problems through clean architecture, maintainable code and reliable infrastructure.
 
-🚀 Comfortable with Docker, Nginx, PM2 and Linux VPS deployments
+- 💼 **Senior Full-Stack Engineer at Tech9ET**
+- ⚡ Strong experience with **Next.js, React, Node.js, TypeScript & Python**
+- 🧩 Experienced with **MERN Stack, Flask, REST APIs & SQL**
+- 🐳 Production deployments using **Docker, Nginx, PM2 & Linux VPS**
+- 🗄️ Working with **MongoDB, MySQL, PostgreSQL & Firebase**
+- 🏗️ Built products for **Healthcare, E-Commerce, CRM, Finance & Document Processing**
+- 🤖 Exploring **AI Agents, LLMs, RAG, Tool Calling & Automation**
+- 🌍 Open to **Remote, International & Gulf-region opportunities**
+- 📫 Reach me at **saqibali046@gmail.com**
 
-🏗️ Built products across healthcare, e-commerce, lead management, finance and document processing
+---
 
-🤖 Currently exploring AI agents, LLM APIs, RAG, tool calling and automation
+# 💼 Professional Experience
 
-🌍 Open to remote, international and Gulf-region opportunities
+## 💻 Senior Full-Stack Engineer — Tech9ET
 
-📫 Reach me at saqibali046@gmail.com
+**June 2025 – Present**
 
-💼 Professional Experience
+- Building and maintaining production-ready web applications.
+- Developing scalable frontend systems using **Next.js, React and TypeScript**.
+- Creating backend services, REST APIs and database integrations.
+- Managing deployments using **Docker, Nginx, PM2 and Linux VPS**.
+- Translating business requirements into reliable technical solutions.
+- Improving application architecture, maintainability and performance.
 
-Full-Stack Developer — Tech9ET
+<br>
 
-June 2025 – Present
+## 🧩 MERN Stack Developer — Maxenius (Private) Limited
 
-Building and maintaining production-ready web applications.
+**January 2024 – June 2025**
 
-Developing modern frontend experiences with Next.js and TypeScript.
+- Developed full-stack applications using **MongoDB, Express.js, React and Node.js**.
+- Integrated REST APIs and third-party services.
+- Built reusable and responsive frontend components.
+- Improved application responsiveness, maintainability and performance.
+- Worked on real-world products in fast-paced development environments.
 
-Creating backend services, APIs and database integrations.
+<br>
 
-Managing deployments with Docker, Nginx, PM2 and Linux VPS environments.
+## 🖥️ Software Developer — BlocTech Solutions
 
-Converting business requirements into reliable technical solutions.
+**January 2023 – December 2023**
 
-MERN Stack Developer — Maxenius (Private) Limited
+- Contributed to frontend and full-stack application development.
+- Created reusable user interfaces and integrated backend APIs.
+- Worked with Git-based development workflows.
+- Improved practical expertise in debugging, APIs and collaborative development.
 
-January 2024 – June 2025
+---
 
-Developed full-stack applications using MongoDB, Express.js, React and Node.js.
-
-Integrated REST APIs and third-party services.
-
-Improved application responsiveness, maintainability and performance.
-
-Collaborated on real-world projects in fast-paced environments.
-
-Software Developer — BlocTech Solutions
-
-January 2023 – December 2023
-
-Contributed to frontend and full-stack development projects.
-
-Created reusable interfaces and integrated backend APIs.
-
-Strengthened practical skills in Git, debugging and collaborative development.
-
-🧰 Technology Stack
-
-Languages
-
-<p><img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" alt="Languages" /></p>
-
-Frontend
-
-<p><img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap&theme=dark" alt="Frontend technologies" /></p>
-
-Backend & APIs
-
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" alt="Backend technologies" /></p>
-
-Databases
-
-<p><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" alt="Databases" /></p>
-
-DevOps, Deployment & Tools
-
-<p><img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,postman,vscode,vercel&theme=dark" alt="DevOps and development tools" /></p>
-
-Core Capabilities
-
-Development
-
-Backend & Data
-
-Deployment
-
-Responsive UI Development
-
-REST API Development
-
-Docker
-
-Next.js Server-Side Rendering
-
-Authentication & Authorization
-
-Nginx
-
-State Management
-
-Database Design
-
-PM2
-
-Performance Optimization
-
-Third-Party API Integration
-
-Linux VPS
-
-🚀 Featured Projects
-
-📄 PDF Tools Web Application
-
-A production-ready document-processing platform providing online PDF conversion and utility tools through a responsive web experience.
-
-Responsibility: Complete full-stack development, API integration, database implementation, containerization and server deployment.
-
-Stack: Next.js • TypeScript • Tailwind CSS • Python Flask • MySQL • Docker • Nginx
-
-
-
-🩺 My Doctor Shop
-
-A modern healthcare e-commerce platform with responsive product experiences, API-driven data and server-side rendering.
-
-Responsibility: Frontend architecture, reusable interfaces, state management, API integration and SSR implementation.
-
-Stack: Next.js • TypeScript • React • RTK Query • SSR • REST APIs
-
-
-
-📊 Lead Management System
-
-A full-stack business platform for organizing leads, managing agents, tracking workflow stages and connecting third-party services.
-
-Responsibility: End-to-end development, business workflow implementation, API development, database design and production deployment.
-
-Stack: Next.js • TypeScript • Tailwind CSS • Node.js • MongoDB • Docker • Nginx
-
-
-
-💰 Accounting & Finance Management System
-
-A business solution designed to organize financial records, operational data and administrative workflows.
-
-Responsibility: Full-stack implementation, dashboard interfaces, backend integration and production support.
-
-
-
-👨‍⚕️ Dr. Noor Ul Arfeen
-
-A doctor appointment and healthcare platform connecting patients with medical services through an accessible web interface.
-
-Responsibility: Full-stack development covering responsive pages, backend APIs, appointment workflows and MongoDB integration.
-
-Stack: Next.js • Tailwind CSS • Node.js • Express.js • MongoDB
-
-
-
-💪 RAW NRG SUPPS
-
-A performance-focused supplements e-commerce frontend with responsive product pages and API-driven data.
-
-Responsibility: Frontend development, state management, API integration and server-side rendering.
-
-Stack: Next.js • TypeScript • React • RTK Query • SSR
-
-
-
-🪙 NGT Token Platform
-
-A modern responsive token platform created with reusable components and a clean interface.
-
-Stack: Next.js • Tailwind CSS
-
-
+# 🧰 Technology Stack
 
 <div align="center">
 
-View More Projects on My Portfolio →
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark" />
+
+<br><br>
+
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,materialui,bootstrap&theme=dark" />
+
+<br><br>
+
+### ⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi&theme=dark" />
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase&theme=dark" />
+
+<br><br>
+
+### 🚀 DevOps, Deployment & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,postman,vscode,vercel&theme=dark" />
 
 </div>
 
-🧠 Current Focus
+---
 
-Building controlled AI agent workflows
+# 🧠 Core Engineering Capabilities
 
-Integrating LLMs with tools and enterprise APIs
+<table>
+<tr>
+<td width="33%" valign="top">
 
-Learning Retrieval-Augmented Generation (RAG)
+### 🎨 Frontend
 
-Exploring vector databases and persistent memory
+- Responsive UI Development
+- Next.js App Development
+- Server-Side Rendering
+- React Architecture
+- State Management
+- API Integration
+- Performance Optimization
+- Reusable Components
 
-Improving Docker, CI/CD and cloud deployment workflows
+</td>
 
-Sharing practical development content with the community
+<td width="33%" valign="top">
 
-🎓 Education & Certifications
+### ⚙️ Backend & Data
 
-Education
+- REST API Development
+- Node.js & Express.js
+- Python Flask APIs
+- Authentication
+- Authorization
+- Database Design
+- Third-Party APIs
+- Business Logic
 
-BS Computer Science
-GC University Faisalabad — Affiliated Shiblee College
-2016 – 2020
+</td>
 
-Certifications & Training
+<td width="33%" valign="top">
 
-Cisco Certified Network Associate — SMIT
+### 🚀 DevOps
 
-Cisco IT Essentials — Cisco Networking Academy
+- Docker
+- Nginx
+- PM2
+- Linux VPS
+- Reverse Proxy
+- Domain Configuration
+- SSL Deployment
+- Production Management
 
-Certified Computer Operator — SMIT
+</td>
+</tr>
+</table>
 
-MS Office & Computer Applications — SMIT / TEVTA
+---
 
-Basic Life Support — Punjab Emergency Service Rescue 1122
+# 🚀 Featured Projects
 
-Modern Application and Web Development — Saylani Welfare
+<table>
+<tr>
 
-📈 GitHub Analytics
+<td width="50%" valign="top">
+
+## 📄 PDF Tools Web Application
+
+Production-ready document processing platform providing online PDF conversion and utility tools.
+
+**My Responsibility**
+
+`100% Full-Stack Development`
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `Tailwind CSS`  
+`Python Flask` `MySQL` `Docker` `Nginx`
+
+**Highlights**
+
+- Full frontend development
+- Backend API implementation
+- Database integration
+- Docker containerization
+- Linux VPS deployment
+- Nginx configuration
+
+🌐 **Live:**  
+https://pdftoexcel.info
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🩺 My Doctor Shop
+
+Modern healthcare e-commerce platform with responsive product experiences and API-driven architecture.
+
+**My Responsibility**
+
+`100% Development Responsibility`
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `React`  
+`RTK Query` `SSR` `REST APIs`
+
+**Highlights**
+
+- Frontend architecture
+- Server-side rendering
+- State management
+- API integration
+- Responsive interfaces
+
+🌐 **Live:**  
+https://mydoctorshop.com
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 📊 Lead Management System
+
+Full-stack business platform for organizing leads, agents, workflow stages and external integrations.
+
+**My Responsibility**
+
+`100% Full-Stack Development`
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `Tailwind CSS`  
+`Node.js` `MongoDB` `Docker` `Nginx`
+
+**Highlights**
+
+- Lead management workflows
+- Agent management
+- Backend API development
+- Database architecture
+- Third-party integrations
+- Production deployment
+
+🌐 **Live:**  
+https://jixsolution.com
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💰 Accounting & Finance System
+
+Business management platform designed for financial records, operational data and administrative workflows.
+
+**My Responsibility**
+
+`Full-Stack Development`
+
+**Highlights**
+
+- Administrative dashboard
+- Financial workflows
+- Backend integrations
+- Data management
+- Production support
+
+🌐 **Live:**  
+https://admin.jixsolution.com
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 👨‍⚕️ Dr. Noor Ul Arfeen
+
+Healthcare and doctor appointment platform connecting patients with medical services.
+
+**Tech Stack**
+
+`Next.js` `Tailwind CSS`  
+`Node.js` `Express.js` `MongoDB`
+
+**Highlights**
+
+- Responsive UI
+- Backend APIs
+- Appointment workflows
+- MongoDB integration
+- Full-stack implementation
+
+🌐 **Live:**  
+https://drnoorularfeen.com
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💪 RAW NRG SUPPS
+
+Performance-focused supplement e-commerce frontend with responsive product pages and API-driven data.
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `React`  
+`RTK Query` `SSR`
+
+**Highlights**
+
+- Responsive frontend
+- Product interfaces
+- State management
+- API integration
+- SSR implementation
+
+🌐 **Live:**  
+https://rawnrgsupps.com
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🪙 NGT Token Platform
+
+Modern responsive token-based platform developed with reusable components and clean UI architecture.
+
+**Tech Stack**
+
+`Next.js` `React` `Tailwind CSS`
+
+🌐 **Live:**  
+https://ngt-token-platform.vercel.app
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛍️ More Projects
+
+I continuously work on web applications involving:
+
+- ERP Systems
+- CRM Systems
+- E-Commerce
+- Healthcare
+- REST APIs
+- Dashboards
+- Business Automation
+- AI Integrations
+
+🌐 **Portfolio**
+
+https://saqibalidev.vercel.app
+
+</td>
+
+</tr>
+</table>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=saqib-ali-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Saqib Ali GitHub statistics" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=saqib-ali-dev&theme=tokyonight&hide_border=true" alt="Saqib Ali contribution streak" />
+### 🔗 Explore More of My Work
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saqib-ali-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
-
-</div>
-
-GitHub language statistics reflect public repository usage and do not represent my complete professional experience.
-
-📊 Contribution Activity
-
-<div align="center">
-
-
+<a href="https://saqibalidev.vercel.app">
+<img src="https://img.shields.io/badge/View%20All%20Projects-Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 </div>
 
-🤝 Services & Collaboration
+---
 
-Full-stack web application development
+# 🤖 AI & Current Focus
 
-Next.js and React frontend development
-
-Node.js, Express.js and Python Flask APIs
-
-MongoDB, MySQL and PostgreSQL integration
-
-Healthcare and e-commerce platforms
-
-Business dashboards and management systems
-
-Docker, Nginx, PM2 and Linux VPS deployments
-
-Third-party API and payment-service integrations
-
-AI-powered features and workflow automation
-
-📬 Connect With Me
-
-<div align="center">
-
-Platform
-
-Link
-
-🌐 Portfolio
-
-saqibalidev.vercel.app
-
-💼 LinkedIn
-
-linkedin.com/in/saqibalidev
-
-💻 GitHub
-
-github.com/saqib-ali-dev
-
-📧 Email
-
-saqibali046@gmail.com
-
-📷 Instagram
-
-instagram.com/saqibali.dev
-
-</div>
-
-<div align="center">
-
-Build useful products. Keep learning. Share the journey.
-
-If you find my work useful, consider following my profile or starring a repository.
-
-
-
-</div>
+```text
+AI Engineering
+├── Large Language Models
+│   ├── OpenAI
+│   ├── Claude
+│   ├── Gemini
+│   └── Llama
+│
+├── AI Agents
+│   ├── Tool Calling
+│   ├── Agent Workflows
+│   ├── Memory
+│   └── Multi-Agent Systems
+│
+├── RAG Systems
+│   ├── Embeddings
+│   ├── Vector Search
+│   ├── Document Retrieval
+│   └── Knowledge Bases
+│
+├── Frameworks
+│   ├── LangChain
+│   ├── LangGraph
+│   └── LlamaIndex
+│
+└── Infrastructure
+    ├── FastAPI
+    ├── PostgreSQL
+    ├── Docker
+    ├── REST APIs
+    └── MCP
